@@ -2,11 +2,12 @@
 
 - 📖Estou cursando Tecnólogo em IA e Banco de dados
 - 👨🏻‍💻Desenvolvedor Backend: C | Python | MySQL
+
 # Wallysson Uriel 💻
 
 **`Desenvolvedor ...`**
 
-Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começou no PIT e SENAC com curso Banco de dados e Inteligência Artificial venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, e aplicações de Inteligência Artificial.
+Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começou no PIT e SENAC com curso Banco de dados e Inteligência Artificial. Venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, e aplicações de Inteligência Artificial.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
@@ -146,17 +147,18 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
-<p align="center">
+<p> 
+    <div align="center">
   <img 
     height="180" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&hide_title=true" 
     alt="Minhas Estatísticas do GitHub"
   />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="180" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wallyss-dev&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" 
     alt="Minhas Tecnologias mais usadas"
   />
+    </div>
 </p>
