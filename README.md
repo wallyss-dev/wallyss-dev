@@ -119,6 +119,10 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
 <br/>
 <br/>
 
+<p align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU5YmlsZWxwY2QxcWFsN2FldmVxb3JsNnhvOWdyZjhsZzdyc2wwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Descrição do GIF" width="150">
+</p>
+
 ### 📊 Estatísticas
 
 <p> 
