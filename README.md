@@ -17,7 +17,7 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
         />
     </a>
      &nbsp;&nbsp;
-    <a href="https://www.instagram.com/"> 
+    <a href="https://www.instagram.com/wallyssbjj/"> 
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
