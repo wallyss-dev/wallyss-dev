@@ -65,15 +65,6 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/3840px-Amazon_Web_Services_Logo.svg.png"         
 />
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353657/django-icon.svg"         
-/>
-
 
 <img 
     align="left" 
@@ -109,28 +100,11 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://codigostartup.com/logos/docker.png" 
-/>
-
-<img 
-    align="left" 
     alt="VsCode" 
     title="VsCode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <img 
     align="left" 
