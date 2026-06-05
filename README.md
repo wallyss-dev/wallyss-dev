@@ -146,19 +146,17 @@ Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começo
 
 ### 📊 Estatísticas
 
-<p>
-    <div align="center">
-      <img
-        height="180"
-        src=""
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src=""
-      />
-    </div>
-</p>
+### 📊 Estatísticas
 
-
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&hide_title=true" 
+    alt="Minhas Estatísticas do GitHub"
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wallyss-dev&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" 
+    alt="Minhas Tecnologias mais usadas"
+  />
 </p>
