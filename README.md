@@ -5,9 +5,9 @@
 
 # Wallysson Uriel 💻
 
-**`Desenvolvedor ...`**
+**`...`**
 
-Desenvolvedor de sistemas em formação. Minha trajetória na tecnologia começou no PIT e SENAC com curso Banco de dados e Inteligência Artificial. Venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, e aplicações de Inteligência Artificial.
+....
 
 <p align="left">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
