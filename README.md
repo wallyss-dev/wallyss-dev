@@ -1,13 +1,9 @@
 ## Olá eu sou o Wallysson 
-
-- 📖Estou cursando Tecnólogo em IA e Banco de dados
+- 📖Estou cursando IA e Banco de dados
 - 👨🏻‍💻Desenvolvedor Backend
+- Estou focado em criar, estruturar e automatizar softwares 
 
 # Wallysson Uriel 💻
-
-**`...`**
-
-....
 
 <p align="left">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
@@ -22,7 +18,7 @@
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/wallyssbjj-%2B-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
@@ -42,11 +38,27 @@
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -89,14 +101,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
