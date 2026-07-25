@@ -1,4 +1,4 @@
-## Olá eu sou o Wallysson 
+## Olá
 - 📖Estou cursando IA e Banco de dados
 - 👨🏻‍💻Desenvolvedor Backend
 - Estou focado em criar, estruturar e automatizar softwares 
