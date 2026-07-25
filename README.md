@@ -122,21 +122,3 @@
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU5YmlsZWxwY2QxcWFsN2FldmVxb3JsNnhvOWdyZjhsZzdyc2wwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Descrição do GIF" width="150">
 </p>
-
-### 📊 Estatísticas
-
-<p> 
-    <div align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&hide_title=true" 
-    alt="Minhas Estatísticas do GitHub"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wallyss-dev&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" 
-    alt="Minhas Tecnologias mais usadas"
-  />
-    </div>
-</p>
