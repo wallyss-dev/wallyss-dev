@@ -1,9 +1,23 @@
-## Olá
-- 📖Estou cursando IA e Banco de dados
-- 👨🏻‍💻Desenvolvedor Backend
-- Estou focado em criar, estruturar e automatizar softwares 
+<h1 align="center">Olá 👋, eu sou o Wallysson Uriel</h1>
+<h3 align="center">
+Desenvolvedor Backend • Banco de Dados • Inteligência Artificial
+</h3>
 
-# Wallysson Uriel 💻
+## 💻 Sobre mim
+
+🎓 Estudante de Inteligência Artificial e Banco de Dados
+
+💼 Desenvolvedor Backend
+
+📚 Atualmente estudando:
+
+- PostgreSQL
+- MySQL
+- Linux
+- C
+- Python
+
+🎓Focado em Construir sistemas escaláveis, automatizar processos e evoluir na área de Engenharia de Software.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
@@ -38,35 +52,11 @@
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="C" 
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"         
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -100,6 +90,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+<img
+    align="left"
+    alt="DBeaver"
+    title="DBeaver"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"
+/>
 <img 
     align="left" 
     alt="GitHub" 
@@ -114,4 +112,10 @@
 <br/>
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU5YmlsZWxwY2QxcWFsN2FldmVxb3JsNnhvOWdyZjhsZzdyc2wwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Descrição do GIF" width="150">
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wallyss-dev&theme=tokyonight"/>
+
 </p>
