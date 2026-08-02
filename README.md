@@ -1,8 +1,9 @@
-<h1 align="center">Olá 👋, eu sou o Wallysson Uriel</h1>
-<h3 align="center">
-Desenvolvedor Backend • Banco de Dados • Inteligência Artificial
-</h3>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=250&section=header&text=Wallysson%20Uriel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20•%20Database%20•%20AI&descAlignY=55"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2&section=footer"/>
+
+</h3>
 ## 💻 Sobre mim
 
 🎓 Estudante de Inteligência Artificial e Banco de Dados
@@ -16,10 +17,8 @@ Desenvolvedor Backend • Banco de Dados • Inteligência Artificial
 - Linux
 - C
 - Python
-
-🎓Focado em Construir sistemas escaláveis, automatizar processos e evoluir na área de Engenharia de Software.
-
-<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=tokyonight"/>
+  <p align="left">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
         <img 
             alt="LinkedIn Seguidores"
@@ -36,86 +35,24 @@ Desenvolvedor Backend • Banco de Dados • Inteligência Artificial
         />
     </a>
 </p>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Database+Enthusiast;Artificial+Intelligence+Student;Always+Learning+New+Technologies" />
+</p>
 
----
+
+🎓Focado em Construir sistemas escaláveis, automatizar processos e evoluir na área de Engenharia de Software.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2&section=footer"/>
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="center">
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"         
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png"         
-/>
-<img 
-    align="left" 
-    alt="VsCode" 
-    title="VsCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img
-    align="left"
-    alt="DBeaver"
-    title="DBeaver"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
-/>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,linux,git,github,vscode"/>
 
-
-<br/>
-<br/>
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU5YmlsZWxwY2QxcWFsN2FldmVxb3JsNnhvOWdyZjhsZzdyc2wwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Descrição do GIF" width="150">
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wallyss-dev&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wallyss-dev&theme=tokyo-night&hide_border=true"/>
 </p>
