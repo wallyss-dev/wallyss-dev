@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=250&section=header&text=Wallysson%20Uriel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FulStack%20Developer%20•%20Database%20•%20Artificial%20Intelligence&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=250&section=header&text=Wallysson%20Uriel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20Database%20•%20Artificial%20Intelligence&descAlignY=55"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=FullStack+Developer;Database+Enthusiast;Artificial+Intelligence+Student;Always+Learning+New+Technologies" />
-</p>
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wallysson-uriel-6a702b3b0/">
@@ -33,7 +28,7 @@ Estudante de **Inteligência Artificial** e **Banco de Dados**
 
 Desenvolvedor **Backend**
 
-Atualmente desenvolvendo aplicações utilizando **Python**, **TypeScript**, **MySQL** e **PostgreSQL**, administrando bancos de dados com **DBeaver** e trabalhando em ambientes **Ubuntu** hospedados em **Máquinas Virtuais**.
+Atualmente trabalho com administração de bancos de dados utilizando **MySQL**, **PostgreSQL** e **DBeaver**, além de gerenciar ambientes Ubuntu Server em máquinas virtuais. Também estou em constante aprendizado de **Python**, **TypeScript**, **React** e desenvolvimento de **APIs**, aplicando esses conhecimentos em projetos práticos e aprimorando minhas habilidades em desenvolvimento de software.
 
 Meu foco é construir sistemas escaláveis, automatizar processos e evoluir continuamente na área de Engenharia de Software.
 
@@ -42,13 +37,19 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
 # Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,c,nodejs,fastapi,mysql,postgres,linux,git,github,vscode" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,python,typescript,react,c,git,github,vscode" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="48"/>
+<p align="center">
+  <img width="48" title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
+  &nbsp;
+  <img width="48" title="Ubuntu Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
+  &nbsp;
+  <img width="48" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  &nbsp;
+  <img width="48" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+  &nbsp;
+  <img width="48" title="Virtual Machine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
 </p>
 
 # Estatísticas
@@ -56,8 +57,7 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wallyss-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wallyss-dev&theme=tokyonight&hide_border=true"/>
