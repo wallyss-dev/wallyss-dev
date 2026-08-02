@@ -52,11 +52,12 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
   <img width="48" title="Virtual Machine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2"/>
+
 # Estatísticas
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallyss-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 
 
 <p align="center">
@@ -64,6 +65,7 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2"/>
+
 
 # Contribuições
 
