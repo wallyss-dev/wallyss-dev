@@ -67,7 +67,7 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2"/>
 
 
-# Contribuições
+#Contribuições
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallyss-dev&theme=tokyo-night&hide_border=true"/>
@@ -76,6 +76,7 @@ Meu foco é construir sistemas escaláveis, automatizar processos e evoluir cont
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2"/>
 
 <p align="center">
+  
 Obrigado pela visita!
 </p>
 
