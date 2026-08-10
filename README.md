@@ -32,8 +32,6 @@ Desenvolvedor **Backend**
 Atualmente trabalho com administração de bancos de dados utilizando **MySQL**, **PostgreSQL** e **DBeaver**, além de gerenciar ambientes Ubuntu Server em máquinas virtuais. Também estou em constante aprendizado de **Python**, **TypeScript**, **React** e desenvolvimento de **APIs**, aplicando esses conhecimentos em projetos práticos e aprimorando minhas habilidades em desenvolvimento de software.
 
 Meu foco é construir sistemas escaláveis, automatizar processos e evoluir continuamente na área de Engenharia de Software.
-<img width="900" height="380" alt="wallysson-github-animated-header" src="https://github.com/user-attachments/assets/08a7a8f3-3f9c-40e2-8d0d-38f574f184e2" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=2"/>
 
 # Tecnologias
 
